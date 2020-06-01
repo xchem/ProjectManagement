@@ -15,13 +15,15 @@ The main project board will house a list of projects within the XChem group and 
 
 1. Create a new repository using the [xchem/TemplateRepo](https://github.com/xchem/TemplateRepo) OR use an existing repo that you would like to add to the main project. Ensure it has it's own project board for it's own feature requests and bug reports. 
 
-2. (Optional) If not using the template or using the template add the `ISSUE_TEMPLATE` from from `AdditionalFiles` folder to the `.github` folder into the root of your git repo. So your git repo contains the following:
+2. (Optional) If not using the template add the `ISSUE_TEMPLATE` from from `AdditionalFiles` folder to the `.github` folder into the root of your git repo. So your git repo contains the following:
 ```
 reponame/.github/ISSUE_TEMPLATE/bug_report.md
 reponame/.github/ISSUE_TEMPLATE/feature_request.md
 ```
 
-3. Submit issue to this repo. Please follow all the steps in the template. Link urls to the existing git repo, the corresponding project board, assigning people who are working on this project and providing a brief overview of the project. 
+This will add a standardised set of Issue Templates we will use across the group.
+
+3. [Submit issue to this repo](https://github.com/xchem/ProjectManagement/issues/new?assignees=&labels=PROJECT&template=add-project-from-existing-repository.md&title=%5BPROJECT%5D). Please follow all the steps in the template. Link urls to the existing git repo, the corresponding project board, assigning people who are working on this project and providing a brief overview of the project. 
 
 ## Once a Issue is submitted
 
@@ -34,4 +36,4 @@ reponame/.github/ISSUE_TEMPLATE/feature_request.md
 4. If handling a `PROJECT - NEEDS INIT`, either alter the issue to be mirror what the existing project look like, or close, link and archive the old issue into a new issue following developers instructions.
 
 ## Last Steps:
-Go to the [Main Projects kanban](https://github.com/orgs/xchem/projects/1) and move the card to whereever it needs to go in from triage.
+Go to the [Main Projects Board](https://github.com/orgs/xchem/projects/1) and move the card to whereever it needs to go in from triage.

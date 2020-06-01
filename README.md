@@ -5,6 +5,7 @@ The main project board will house a list of projects within the XChem group and 
 ## Non-Developer (Frank's) Instructions
 
 1. Submit a new project/issue using the `Add a brand NEW Project (one that needs creating)` template: 
+
 [Click Here Frank!](https://github.com/xchem/ProjectManagement/issues/new?assignees=&labels=PROJECT+-+NEEDS+INIT&template=add-a-brand-new-project--one-that-needs-creating-.md&title=%5BNEW+PROJECT%5D)
 
 2. Follow the steps, assigning people and giving a highly indepth description of what is required of the project
@@ -15,7 +16,7 @@ The main project board will house a list of projects within the XChem group and 
 
 1. Create a new repository using the [xchem/TemplateRepo](https://github.com/xchem/TemplateRepo) OR use an existing repo that you would like to add to the main project. Ensure it has it's own project board for it's own feature requests and bug reports. 
 
-2. (Optional) If not using the template add the `ISSUE_TEMPLATE` from from `AdditionalFiles` folder to the `.github` folder into the root of your git repo. So your git repo contains the following:
+2. (Optional) If not using the template add the `ISSUE_TEMPLATE` from `AdditionalFiles` folder to the `.github` folder into the root of your git repo. So your git repo contains the following:
 ```
 reponame/.github/ISSUE_TEMPLATE/bug_report.md
 reponame/.github/ISSUE_TEMPLATE/feature_request.md

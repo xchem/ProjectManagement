@@ -30,3 +30,6 @@ The main project board will house a list of projects within the XChem group and 
 
 ## Last Steps:
 Go to the [Main Projects kanban](https://github.com/orgs/xchem/projects/1) and move the card to whereever it needs to go in from triage.
+
+## To Do:
+- Discuss how we can implement milestones?

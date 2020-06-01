@@ -30,11 +30,11 @@ This will add a standardised set of Issue Templates we will use across the group
 
 1. Ensure all links are correctly set-up
 
-2. Discuss/clarify the specifications in the project if required.
+2. Discuss/clarify the specifications in the project if required. Comments on the Main Projects card can be converted into issues on the git repos project board, please do this. And actively resolve/hide comments once issues have been created or the main (first) comment has been updated if relevant.
 
-3. Assign additional members and outline steps required (these can become individual features/bug reports by referencing comments and linking to the corresponding git repos
+3. Assign additional members and outline steps required. These can become individual features/bug reports by referencing comments and linking to the corresponding git repos
 
 4. If handling a `PROJECT - NEEDS INIT`, either alter the issue to be mirror what the existing project look like, or close, link and archive the old issue into a new issue following developers instructions.
 
 ## Last Steps:
-Go to the [Main Projects Board](https://github.com/orgs/xchem/projects/1) and move the card to whereever it needs to go in from triage.
+Go to the [Main Projects Board](https://github.com/orgs/xchem/projects/1) and move the card to wherever it needs to go in from triage.

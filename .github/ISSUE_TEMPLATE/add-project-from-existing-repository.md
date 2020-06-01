@@ -26,7 +26,8 @@ assignees: ''
 
 ## Updates
 <!---
-Update Structure if needed.
+Update Structure if needed
+For example: 
 - Add a update comment with correct reference
 _Originally posted by @TJGorrie in 
 https://github.com/xchem/ProjectManagement/issues/2#issuecomment-637063126

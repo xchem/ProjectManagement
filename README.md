@@ -3,7 +3,9 @@ Repository for Managing various projects within the XChem group.
 The main project board will house a list of projects within the XChem group and project convenient links to the specific repositories and corresponding project boards which should be used for bug and feature requests (and discussion).
 
 ## Developer Instructions
-1. Create a new repository or have an existing repository that has it's own project board that you would like to add to the main project board.
+1a. Create a new repository or have an existing repository that has it's own project board that you would like to add to the main project board.
+
+1b. Add the `ISSUE_TEMPLATE` folder to the `docs` or `.github` folder in the root of your git repo
 
 2. Submit a new project/issue to this repo (follow all the steps in the template). Linking the urls to the git repo, the corresponding project board, assigning people who are working on this project and providing a brief overview of  
 
